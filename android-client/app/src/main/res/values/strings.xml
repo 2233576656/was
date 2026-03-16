@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">系统服务</string>
+    <string name="accessibility_service_label">键盘监听服务</string>
+    <string name="accessibility_service_desc">用于辅助输入功能</string>
+</resources>
